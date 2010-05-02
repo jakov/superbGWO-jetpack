@@ -4,6 +4,6 @@
   "author": "Erik Vold <erikvvold@gmail.com>",
   "description": "A collection of GWO user scripts.",
   "id": "superbgwo@erikvold.com",
-  "version": "0.0.1",
-  "dependencies": ["jetpack-core", "io-service", "user-script-sandbox", "user-script-header-parser", "user-script", "convert-2-regexp", "greasemonkey-api"]
+  "version": "0.0.2",
+  "dependencies": ["jetpack-core", "user-scripts"]
 }
