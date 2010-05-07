@@ -5,5 +5,5 @@
   "description": "A collection of GWO user scripts.",
   "id": "superbgwo@erikvold.com",
   "version": "0.0.2",
-  "dependencies": ["jetpack-core", "user-scripts"]
+  "dependencies": ["jetpack-core", "userscripts"]
 }
