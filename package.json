@@ -1,9 +1,9 @@
 {
-  "name": "superb-gwo",
-  "fullName": "SuperbGWO",
-  "author": "Erik Vold <erikvvold@gmail.com>",
-  "description": "A collection of GWO user scripts.",
-  "id": "superbgwo@erikvold.com",
-  "version": "0.0.2",
+  "name": "helloworld",
+  "fullName": "helloworld",
+  "author": "jakov <jakov@gmx.at>",
+  "description": "A collection of helloworld user scripts.",
+  "id": "jakov@nurfuerspam.de",
+  "version": "0.0.1",
   "dependencies": ["jetpack-core", "userscripts"]
 }
